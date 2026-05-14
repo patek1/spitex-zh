@@ -1,0 +1,26 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- Virtuelle Umgebungen ---
+.venv/
+venv/
+env/
+
+# --- Umgebungsvariablen / Secrets ---
+.env
+.env.*
+.streamlit/secrets.toml
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+
+# --- macOS ---
+.DS_Store

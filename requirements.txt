@@ -1,0 +1,13 @@
+streamlit>=1.31
+streamlit-folium>=0.18
+folium>=0.15
+branca>=0.7
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
